@@ -1,0 +1,4 @@
+1- Crear proyectos Django
+    django-admin startproyect "nombre del proyecto"
+2- Ejecutar el proyecto
+    python. \mangane.py runserver
